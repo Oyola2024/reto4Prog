@@ -1,0 +1,14 @@
+.cont-imgPrincipal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.imagenpc {
+    height: 600px;
+    object-fit: cover;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 1px 4px 24px 0px rgba(66, 68, 90, 1);
+}
